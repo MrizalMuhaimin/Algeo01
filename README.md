@@ -66,12 +66,14 @@ Menerima masukan lokasi file:
 contoh :
 
 Lokai File: E:\Programming\Java\baru algeo\New folder\Algeo01-19009\test
-Nama File: Determinan.txt
+
+	Nama File: Determinan.txt
 
 ## Save File
 Menerima masukan lokasi file:
 contoh :
 
 Lokai File: E:\Programming\Java\baru algeo\New folder\Algeo01-19009\test
-Nama File: Determinan.txt
+
+	Nama File: Determinan.txt
 
