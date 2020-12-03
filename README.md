@@ -1,26 +1,26 @@
-##SISTEM PERSAMAAN LINIER, DETERMINAN, DAN APLIKASINYA
+## SISTEM PERSAMAAN LINIER, DETERMINAN, DAN APLIKASINYA
 
-##Daftar Isi
-- [1] Bagaimana menjalankan program
-- [2] Nama File 
-- [3] Menu program
-- [4] Input File
-- [5] Save File
+## Daftar Isi
+- [Mejalankan program](#Bagaimana-menjalankan-program)
+- [Nama File](#Nama-File)
+- [Menu program](#Menu program)
+- [Input File](#Input-File)
+- [Save File](#Save-File)
 
 
-##Mejalankan program
+## Mejalankan program
 	1. Windows; dengan masuk melalui command prompt (cmd) yang mana masuk ke tempat forder Algeo01-19009 berada dan masuk ke folder bin kemudain menjalankn MainProgram dengan perintah -> java MainProgram
 	2. Linux; Masuk forder Algeo01-19009 berada dan masuk ke folder bin kemudain menjalankn MainProgram dengan perintah -> ./ MainProgram
 
 
-##Nama File
+## Nama File
 	* bin; berisi kode bytecode bertipe namafile.class
 	* src; berisi data asli kodingan
 	* doc; berisi laporan
 	* test; berisi data test
 
 
-##Menu program
+## Menu program
 1. Sistem Persamaan Linier
 	1. Metode eliminsai gauss
 		1. Input dari Keybord
@@ -61,14 +61,14 @@
 		0. Menu
 0.Keluar
 
-##Input File
+## Input File
 Menerima masukan lokasi file:
 contoh :
 
 Lokai File: E:\Programming\Java\baru algeo\New folder\Algeo01-19009\test
 Nama File: Determinan.txt
 
-##Save File
+## Save File
 Menerima masukan lokasi file:
 contoh :
 
